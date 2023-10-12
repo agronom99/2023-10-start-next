@@ -1,0 +1,19 @@
+
+
+body{
+    background: #fff;
+    color: #000;
+}
+
+.show{
+    margin: 20px;
+    
+}
+
+.show div{
+    margin-top: 20px;
+}
+
+.show div>a{
+    margin: 20px;
+}
