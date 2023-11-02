@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 * {
   margin: 0;
   padding: 0;
@@ -11,9 +15,10 @@ body {
 header {
   display: flex;
   justify-content: space-between;
-  background-color: #000000;
+  background-color: #fff;
   border-bottom: 2px solid #2c2c2c;
   padding: 20px 50px;
+  color: #cb2222;
 }
 
 header a{
